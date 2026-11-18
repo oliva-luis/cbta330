@@ -1828,16 +1828,6 @@ em {
   line-height: 1.45;
 }
 
-.colophon-author {
-  font-size: 0.76rem;
-  color: var(--gold-soft);
-  letter-spacing: 0.06em;
-}
-
-.colophon-author b {
-  color: #ffffff;
-}
-
 .back-to-top {
   display: inline-flex;
   align-items: center;
